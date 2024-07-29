@@ -13,7 +13,7 @@
 The AI Healthcare Chatbot is designed to assist users in identifying diseases based on symptoms and suggesting appropriate treatments. It also offers functionality to book appointments with doctors and locate nearby hospitals or clinics. The chatbot leverages the LLaMA-3 model with prompt engineering to ensure it handles healthcare-specific queries effectively.
 
 ## Workflow Diagram
-![Workflow Diagram For Healthcare chatbot]([https://github.com/user-attachments/assets/aa729206-4fe5-4994-9429-99480575222b](https://github.com/Abdul1302/Project12-AI-Healthcare-Chatbot/blob/main/Workflow%20Diagram%20For%20Healthcare%20chatbot.jpg))
+![Workflow Diagram For Healthcare chatbot](https://github.com/Abdul1302/Project12-AI-Healthcare-Chatbot/blob/main/Workflow%20Diagram%20For%20Healthcare%20chatbot.jpg)
 
 
 ## Features
